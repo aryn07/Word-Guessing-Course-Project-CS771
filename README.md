@@ -1,1 +1,1 @@
-# Word-Guessing-Course-Project-CS771
+# Word-Guessing
